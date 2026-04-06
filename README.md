@@ -11,6 +11,14 @@ By analyzing patterns such as suspicious keywords, URLs, urgency-related terms, 
 
 ---
 
+## Cybersecurity Relevance
+
+Phishing is one of the most common forms of social engineering attacks used by cybercriminals to steal sensitive information and gain unauthorized access to systems.
+
+This project can help improve email security by automatically identifying suspicious emails before users interact with them. Such systems can be useful in organizations, SOC teams, email filtering systems, and secure email gateways to reduce the risk of phishing attacks, credential theft, and malware infections.
+
+---
+
 ## Problem Statement
 
 Phishing emails often imitate trusted organizations and create a sense of urgency to trick users into clicking malicious links or revealing confidential information.
