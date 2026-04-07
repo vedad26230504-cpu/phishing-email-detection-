@@ -159,6 +159,7 @@ The models will be evaluated using:
 Recall is especially important in phishing detection because failing to detect a phishing email can be risky.
 
 ## Project Structure
+````
 phishing-email-detection-project/
 │
 ├── data/
@@ -176,6 +177,7 @@ phishing-email-detection-project/
 │   └── wordcloud_legitimate.png
 │
 └── README.md
+````
 
 ## Expected Outcome
 At the end of the project, the system should be able to classify whether an email is phishing or legitimate with good accuracy and recall.
