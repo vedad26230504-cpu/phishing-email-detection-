@@ -110,7 +110,7 @@ urgent bank account locked click immediately
 . TF-IDF Vectorization
 . Bag of Words
 . N-grams
-. Manual Features
+. Manual Features 
 . Number of URLs
 . Number of exclamation marks
 . Email length
