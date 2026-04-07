@@ -107,17 +107,29 @@ urgent bank account locked click immediately
 
 ## Feature Engineering
 . Text Features
+
 . TF-IDF Vectorization
+
 . Bag of Words
+
 . N-grams
+
 . Manual Features 
+
 . Number of URLs
+
 . Number of exclamation marks
+
 . Email length
+
 . Count of uppercase words
+
 . Count of suspicious keywords
+
 . Presence of urgent words
+
 . Presence of suspicious domains
+
 
 ## Machine Learning Models
 
