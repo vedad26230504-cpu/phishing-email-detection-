@@ -124,11 +124,17 @@ urgent bank account locked click immediately
 The following machine learning algorithms will be tested:
 
 . Logistic Regression
+
 . Naive Bayes
+
 . Random Forest
+
 . Support Vector Machine (SVM)
+
 . XGBoost
+
 . Evaluation Metrics
+
 
 The models will be evaluated using:
 
