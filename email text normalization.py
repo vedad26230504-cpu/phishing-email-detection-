@@ -31,8 +31,7 @@ df.groupby('email_type')['url_count'].mean()
 plt.figure(figsize=(8,5))
 sns.boxplot(x='email_type', y='url_count', data=df)
 plt.title('URL Count by Email Type')
-plt.show()
-
+plt.show() 
 
 # Count exclamation marks in emails
 df['exclamation_count'] = df['email_text'].apply(lambda x: x.count('!'))
